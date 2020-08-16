@@ -3,3 +3,6 @@
 
 # Ada Library Information
 *.ali
+/customeriq/explore.py
+/venv/
+/.idea/
